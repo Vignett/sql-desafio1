@@ -1,1 +1,0 @@
-banco de dados baseado no contexto de ecommerce contendo as alterações quanto às informações dos clientes (PJ ou PF), código de rastreio nos pedidos, e formas de pagamento
